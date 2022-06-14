@@ -1,0 +1,8 @@
+---
+title: "Marine mammal bycatch"
+format: html
+---
+
+## Background
+
+This project is supported by the [Ocean Modeling Forum](https://oceanmodelingforum.org/) and the [Lenfest Ocean Program](https://www.lenfestocean.org/en). The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks. My primary contribution to this was the `mmrefpoints` [R package](https://github.com/mcsiple/mmrefpoints) and [Shiny app](https://msiple.shinyapps.io/mmrefpoints/).
