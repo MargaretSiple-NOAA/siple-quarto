@@ -9,7 +9,7 @@ Welcome to my Quarto webpage! I am working on filling it out. The page is public
 # Research
 
 ## Marine mammal bycatch impacts
-The marine mammal bycatch working group is a collaboration between academics and scientists from inside and outside NOAA, supported by [The Ocean Modeling Forum](https://oceanmodelingforum.org/). My primary contribution to this project was the mmrefpoints R package and Shiny app.
+The marine mammal bycatch working group is a collaboration between academics and scientists from inside and outside NOAA, supported by [The Ocean Modeling Forum](https://oceanmodelingforum.org/). My primary contribution to this project was the `mmrefpoints` R package and Shiny app.
 
 # Teaching
 
