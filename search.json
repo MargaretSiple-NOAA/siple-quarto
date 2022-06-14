@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "current-projects/bycatch.html",
+    "href": "current-projects/bycatch.html",
+    "title": "Marine mammal bycatch",
+    "section": "",
+    "text": "This project is supported by the Ocean Modeling Forum and the Lenfest Ocean Program. The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks. My primary contribution to this was the mmrefpoints R package and Shiny app."
+  },
+  {
+    "objectID": "current-projects/index.html",
+    "href": "current-projects/index.html",
+    "title": "Current projects",
+    "section": "",
+    "text": "Projects listed here include both NOAA-related research projects and ongoing academic research projects."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Margaret Siple’s quarto page",
+    "section": "",
+    "text": "Welcome to my Quarto webpage! I am working on filling it out. The page is public. The source code for this website is here."
+  },
+  {
+    "objectID": "index.html#marine-mammal-bycatch-impacts",
+    "href": "index.html#marine-mammal-bycatch-impacts",
+    "title": "Margaret Siple’s quarto page",
+    "section": "Marine mammal bycatch impacts",
+    "text": "Marine mammal bycatch impacts\nThe marine mammal bycatch working group is a collaboration between academics and scientists from inside and outside NOAA, supported by The Ocean Modeling Forum. My primary contribution to this project was the mmrefpoints R package and Shiny app."
+  },
+  {
+    "objectID": "index.html#shiny-tutorials",
+    "href": "index.html#shiny-tutorials",
+    "title": "Margaret Siple’s quarto page",
+    "section": "Shiny tutorials",
+    "text": "Shiny tutorials\nI have several Shiny tutorials, hosted in various places.\n\nI learned how to use Quarto from Openscapes and R-Ladies Santa Barbara."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site is intended to be a roadmap to my projects, including teaching and some NOAA-related side projects."
+  }
+]
