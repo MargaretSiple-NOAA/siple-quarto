@@ -16,6 +16,11 @@ The marine mammal bycatch working group is a collaboration between academics and
 ## Shiny tutorials
 I have several Shiny tutorials, hosted in various places. 
 
+```{r}
+#some stuff
+library(ggplot2)
+ggplot(mtcars,aes(x=mpg,y=cyl)) + geom_point()
+```
 
 
 ---
