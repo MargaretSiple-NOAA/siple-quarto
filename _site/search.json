@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This site is intended to be a roadmap to my projects, including teaching and some NOAA-related side projects."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mysite",
+    "title": "Margaret Siple’s quarto page",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
