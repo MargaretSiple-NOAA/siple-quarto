@@ -2,10 +2,21 @@
 title: "Margaret Siple's quarto page"
 ---
 
-Welcome to my Quarto webpage! I am working on filling it out. The page is public; source code is here. 
+# About
+
+Welcome to my Quarto webpage! I am working on filling it out. The page is public. The source code for this website is [here](https://github.com/MargaretSiple-NOAA/siple-quarto). 
+
+# Research
+
+## Marine mammal bycatch impacts
+The marine mammal bycatch working group is a collaboration between academics and scientists from inside and outside NOAA, supported by [The Ocean Modeling Forum](https://oceanmodelingforum.org/). My primary contribution to this project was the mmrefpoints R package and Shiny app.
+
+# Teaching
+
+## Shiny tutorials
+I have several Shiny tutorials, hosted in various places. 
+
 
 
 ---
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I learned how to use Quarto from Openscapes and R-Ladies Santa Barbara.
