@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  page-navigation: true
   title: "Siple projects"
   navbar:
     background: light
@@ -13,14 +14,30 @@ website:
       - href: about.qmd
         text: About
 
+  page-footer:
+    right: "This page is built with 🐋 and [Quarto](https://quarto.org/)."
+  
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - section: current-projects/index.qmd
+
 format:
   html:
     theme:
       light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
     toc: true
     code-copy: true
     code-overflow: wrap
     css: styles.css
+
    
 
 
