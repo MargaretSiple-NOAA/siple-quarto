@@ -32,7 +32,7 @@
     "href": "index.html#shiny-tutorials",
     "title": "Margaret Siple’s quarto page",
     "section": "Shiny tutorials",
-    "text": "Shiny tutorials\nI have several Shiny tutorials, hosted in various places.\n\nI learned how to use Quarto from Openscapes and R-Ladies Santa Barbara."
+    "text": "Shiny tutorials\nI have several Shiny tutorials, hosted in various places.\n\n#some stuff\nlibrary(ggplot2)\nggplot(mtcars,aes(x=mpg,y=cyl)) + geom_point()\n\n\n\n\n\nI learned how to use Quarto from Openscapes and R-Ladies Santa Barbara."
   },
   {
     "objectID": "about.html",
