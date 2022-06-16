@@ -5,4 +5,12 @@ format: html
 
 ## Background
 
-This project is supported by the [Ocean Modeling Forum](https://oceanmodelingforum.org/) and the [Lenfest Ocean Program](https://www.lenfestocean.org/en). The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks. My primary contribution to this was the `mmrefpoints` [R package](https://github.com/mcsiple/mmrefpoints) and [Shiny app](https://msiple.shinyapps.io/mmrefpoints/).
+This project is supported by the [Ocean Modeling Forum](https://oceanmodelingforum.org/) and the [Lenfest Ocean Program](https://www.lenfestocean.org/en). The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks. 
+
+## Software products
+
+Work products from this project include the `{mmrefpoints}` [R package](https://github.com/mcsiple/mmrefpoints) and [Shiny app](https://msiple.shinyapps.io/mmrefpoints/). The code for `{mmrefpoints}` is open source and published in the [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.03888).
+
+## Previous talks
+
+Material from this project has been presented at workshops and in lectures. Recorded talks are linked below.

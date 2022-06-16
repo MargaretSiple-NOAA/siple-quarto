@@ -9,12 +9,18 @@ Welcome to my Quarto webpage! I am working on filling it out. The page is public
 # Research
 
 ## Marine mammal bycatch impacts
-The marine mammal bycatch working group is a collaboration between academics and scientists from inside and outside NOAA, supported by [The Ocean Modeling Forum](https://oceanmodelingforum.org/). My primary contribution to this project was the `mmrefpoints` R package and Shiny app.
+The Marine Mammal Bycatch Working Group is a collaboration between academics and scientists from inside and outside NOAA, supported by [The Ocean Modeling Forum](https://oceanmodelingforum.org/). My primary contribution to this project was the `{mmrefpoints}` [R package](https://github.com/mcsiple/mmrefpoints) and Shiny app. I contributed to this work as a postdoctoral research associate at the University of Washington.
+
+For more information about this project and work products, including links to talks and tutorials, visit the [Marine mammal bycatch page](current-projects/bycatch.qmd).
+
+
+
 
 # Teaching
 
 ## Shiny tutorials
-I have several Shiny tutorials, hosted in various places. 
+
+Materials for most of my `{shiny}` materials are collected on the [Teaching](teaching.qmd) page.
 
 ```{r}
 #some stuff
