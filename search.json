@@ -14,18 +14,25 @@
     "text": "This project is supported by the Ocean Modeling Forum and the Lenfest Ocean Program. The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks."
   },
   {
-    "objectID": "current-projects/bycatch.html#software-products",
-    "href": "current-projects/bycatch.html#software-products",
+    "objectID": "current-projects/bycatch.html#r-package-and-shiny-app",
+    "href": "current-projects/bycatch.html#r-package-and-shiny-app",
     "title": "Marine mammal bycatch",
-    "section": "Software products",
-    "text": "Software products\nWork products from this project include the {mmrefpoints} R package and Shiny app. The code for {mmrefpoints} is open source and published in the Journal of Open Source Software."
+    "section": "R package and Shiny app",
+    "text": "R package and Shiny app\nWork products from this project include the {mmrefpoints} R package and Shiny app.\nThe code for {mmrefpoints} is open source and published in the Journal of Open Source Software."
   },
   {
-    "objectID": "current-projects/bycatch.html#previous-talks",
-    "href": "current-projects/bycatch.html#previous-talks",
+    "objectID": "current-projects/bycatch.html#talks",
+    "href": "current-projects/bycatch.html#talks",
     "title": "Marine mammal bycatch",
-    "section": "Previous talks",
-    "text": "Previous talks\nMaterial from this project has been presented at workshops and in lectures. Recorded talks are linked below."
+    "section": "Talks",
+    "text": "Talks\nMaterial from this project has been presented at workshops and in lectures.\n\nWebinar: Best practices to assess and manage marine mammal bycatch. Lenfest Ocean Program, March 14, 2022. (link - app introduction starts at 34:15)\nA tool for projecting marine mammal abundance under different bycatch scenarios. January 7, 2022. University of Washington Quantitative Seminar. (link)"
+  },
+  {
+    "objectID": "current-projects/bycatch.html#papers",
+    "href": "current-projects/bycatch.html#papers",
+    "title": "Marine mammal bycatch",
+    "section": "Papers",
+    "text": "Papers\nSiple et al. 2022. mmrefpoints: Projecting long-term marine mammal abundance with bycatch. Open access.\nSee the Ocean Modeling Forum website for a full list of paper from the Marine Mammal Bycatch Working Group."
   },
   {
     "objectID": "current-projects/index.html",
