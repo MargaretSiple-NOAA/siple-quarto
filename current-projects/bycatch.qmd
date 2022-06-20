@@ -7,10 +7,24 @@ format: html
 
 This project is supported by the [Ocean Modeling Forum](https://oceanmodelingforum.org/) and the [Lenfest Ocean Program](https://www.lenfestocean.org/en). The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks. 
 
-## Software products
+## R package and Shiny app
 
-Work products from this project include the `{mmrefpoints}` [R package](https://github.com/mcsiple/mmrefpoints) and [Shiny app](https://msiple.shinyapps.io/mmrefpoints/). The code for `{mmrefpoints}` is open source and published in the [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.03888).
+Work products from this project include the `{mmrefpoints}` [R package](https://github.com/mcsiple/mmrefpoints) and [Shiny app](https://msiple.shinyapps.io/mmrefpoints/). 
 
-## Previous talks
+The code for `{mmrefpoints}` is open source and published in the [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.03888).
 
-Material from this project has been presented at workshops and in lectures. Recorded talks are linked below.
+## Talks
+
+Material from this project has been presented at workshops and in lectures. 
+
+* Webinar: Best practices to assess and manage marine mammal bycatch. Lenfest Ocean Program, March 14, 2022. ([link](https://www.youtube.com/watch?v=JMX_fggxpw4) - app introduction starts at 34:15)
+
+* A tool for projecting marine mammal abundance under different bycatch scenarios. January 7, 2022. University of Washington Quantitative Seminar. (link)
+
+
+## Papers
+
+Siple et al. 2022. [`mmrefpoints`: Projecting long-term marine mammal abundance with bycatch](https://joss.theoj.org/papers/10.21105/joss.03888). *Open access*.
+
+See the Ocean Modeling Forum website for a full list of paper from the Marine Mammal Bycatch Working Group.
+
