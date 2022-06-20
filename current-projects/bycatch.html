@@ -24,6 +24,7 @@ ul.task-list{list-style: none;}
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../current-projects/index.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -109,11 +110,21 @@ ul.task-list{list-style: none;}
   <a href="../index.html" class="sidebar-item-text sidebar-link">Welcome</a>
   </div>
 </li>
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a href="../current-projects/index.html" class="sidebar-item-text sidebar-link">Current projects</a>
+      <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../current-projects/index.html" class="sidebar-item-text sidebar-link">Current projects</a>
+  <a href="../current-projects/bycatch.html" class="sidebar-item-text sidebar-link active">Marine mammal bycatch</a>
   </div>
 </li>
+    </ul>
+  </li>
     </ul>
     </div>
 </nav>
@@ -124,7 +135,8 @@ ul.task-list{list-style: none;}
    
   <ul>
   <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
-  <li><a href="#r-package-and-shiny-app" id="toc-r-package-and-shiny-app" class="nav-link" data-scroll-target="#r-package-and-shiny-app">R package and Shiny app</a></li>
+  <li><a href="#r-package" id="toc-r-package" class="nav-link" data-scroll-target="#r-package">R package</a></li>
+  <li><a href="#shiny-app" id="toc-shiny-app" class="nav-link" data-scroll-target="#shiny-app">Shiny app</a></li>
   <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
   <li><a href="#papers" id="toc-papers" class="nav-link" data-scroll-target="#papers">Papers</a></li>
   </ul>
@@ -152,18 +164,24 @@ ul.task-list{list-style: none;}
 <section id="background" class="level2">
 <h2 class="anchored" data-anchor-id="background">Background</h2>
 <p>This project is supported by the <a href="https://oceanmodelingforum.org/">Ocean Modeling Forum</a> and the <a href="https://www.lenfestocean.org/en">Lenfest Ocean Program</a>. The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks.</p>
+<p>The Marine Mammal Bycatch Working Group is a collaboration between academics and scientists from inside and outside NOAA. My primary contribution to this project was the <code>{mmrefpoints}</code> R package and Shiny app. I contributed to this work as a postdoctoral research associate at the University of Washington.</p>
+<p>Below you will find links to code, tutorials, and talks about the R package and Shiny app.</p>
 </section>
-<section id="r-package-and-shiny-app" class="level2">
-<h2 class="anchored" data-anchor-id="r-package-and-shiny-app">R package and Shiny app</h2>
-<p>Work products from this project include the <code>{mmrefpoints}</code> <a href="https://github.com/mcsiple/mmrefpoints">R package</a> and <a href="https://msiple.shinyapps.io/mmrefpoints/">Shiny app</a>.</p>
+<section id="r-package" class="level2">
+<h2 class="anchored" data-anchor-id="r-package">R package</h2>
+<p>The <code>{mmrefpoints}</code> <a href="https://github.com/mcsiple/mmrefpoints">R package</a> provides tools for projecting marine mammal abundance under different bycatch scenarios. It can also be used as a way to access the Shiny app offline.</p>
 <p>The code for <code>{mmrefpoints}</code> is open source and published in the <a href="https://joss.theoj.org/papers/10.21105/joss.03888">Journal of Open Source Software</a>.</p>
+</section>
+<section id="shiny-app" class="level2">
+<h2 class="anchored" data-anchor-id="shiny-app">Shiny app</h2>
+<p>The MMBIET Shiny app, included in <code>{mmrefpoints}</code> is available <a href="https://msiple.shinyapps.io/mmrefpoints/">here</a>. If you have any trouble with the app or want to request a new feature, visit the <a href="https://github.com/mcsiple/mmrefpoints/issues">Issues page</a> for the package.</p>
 </section>
 <section id="talks" class="level2">
 <h2 class="anchored" data-anchor-id="talks">Talks</h2>
 <p>Material from this project has been presented at workshops and in lectures.</p>
 <ul>
 <li><p>Webinar: Best practices to assess and manage marine mammal bycatch. Lenfest Ocean Program, March 14, 2022. (<a href="https://www.youtube.com/watch?v=JMX_fggxpw4">link</a> - app introduction starts at 34:15)</p></li>
-<li><p>A tool for projecting marine mammal abundance under different bycatch scenarios. January 7, 2022. University of Washington Quantitative Seminar. (link)</p></li>
+<li><p>A tool for projecting marine mammal abundance under different bycatch scenarios. January 7, 2022. University of Washington Quantitative Seminar. (<a href="https://www.youtube.com/watch?v=LO_HsO4fVy8">link</a>)</p></li>
 </ul>
 </section>
 <section id="papers" class="level2">
@@ -351,6 +369,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../current-projects/index.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Current projects</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

@@ -11,14 +11,21 @@
     "href": "current-projects/bycatch.html",
     "title": "Marine mammal bycatch",
     "section": "",
-    "text": "This project is supported by the Ocean Modeling Forum and the Lenfest Ocean Program. The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks."
+    "text": "This project is supported by the Ocean Modeling Forum and the Lenfest Ocean Program. The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks.\nThe Marine Mammal Bycatch Working Group is a collaboration between academics and scientists from inside and outside NOAA. My primary contribution to this project was the {mmrefpoints} R package and Shiny app. I contributed to this work as a postdoctoral research associate at the University of Washington.\nBelow you will find links to code, tutorials, and talks about the R package and Shiny app."
   },
   {
-    "objectID": "current-projects/bycatch.html#r-package-and-shiny-app",
-    "href": "current-projects/bycatch.html#r-package-and-shiny-app",
+    "objectID": "current-projects/bycatch.html#r-package",
+    "href": "current-projects/bycatch.html#r-package",
     "title": "Marine mammal bycatch",
-    "section": "R package and Shiny app",
-    "text": "R package and Shiny app\nWork products from this project include the {mmrefpoints} R package and Shiny app.\nThe code for {mmrefpoints} is open source and published in the Journal of Open Source Software."
+    "section": "R package",
+    "text": "R package\nThe {mmrefpoints} R package provides tools for projecting marine mammal abundance under different bycatch scenarios. It can also be used as a way to access the Shiny app offline.\nThe code for {mmrefpoints} is open source and published in the Journal of Open Source Software."
+  },
+  {
+    "objectID": "current-projects/bycatch.html#shiny-app",
+    "href": "current-projects/bycatch.html#shiny-app",
+    "title": "Marine mammal bycatch",
+    "section": "Shiny app",
+    "text": "Shiny app\nThe MMBIET Shiny app, included in {mmrefpoints} is available here. If you have any trouble with the app or want to request a new feature, visit the Issues page for the package."
   },
   {
     "objectID": "current-projects/bycatch.html#talks",
@@ -49,11 +56,11 @@
     "text": "Welcome to my Quarto webpage! I am working on filling it out. The page is public. The source code for this website is here."
   },
   {
-    "objectID": "index.html#marine-mammal-bycatch-impacts",
-    "href": "index.html#marine-mammal-bycatch-impacts",
+    "objectID": "index.html#postdoctoral-projects",
+    "href": "index.html#postdoctoral-projects",
     "title": "Margaret Siple’s quarto page",
-    "section": "Marine mammal bycatch impacts",
-    "text": "Marine mammal bycatch impacts\nThe Marine Mammal Bycatch Working Group is a collaboration between academics and scientists from inside and outside NOAA, supported by The Ocean Modeling Forum. My primary contribution to this project was the {mmrefpoints} R package and Shiny app. I contributed to this work as a postdoctoral research associate at the University of Washington.\nFor more information about this project and work products, including links to talks and tutorials, visit the Marine mammal bycatch page."
+    "section": "Postdoctoral projects",
+    "text": "Postdoctoral projects"
   },
   {
     "objectID": "index.html#shiny-tutorials",
