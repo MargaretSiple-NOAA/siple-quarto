@@ -34,5 +34,5 @@ Material from this project has been presented at workshops and in lectures.
 
 Siple et al. 2022. [`mmrefpoints`: Projecting long-term marine mammal abundance with bycatch](https://joss.theoj.org/papers/10.21105/joss.03888). *Open access*.
 
-See the Ocean Modeling Forum website for a full list of paper from the Marine Mammal Bycatch Working Group.
+See the Ocean Modeling Forum [website](https://oceanmodelingforum.org/working-groups/marine-mammal-bycatch-working-group/) for a full list of paper from the Marine Mammal Bycatch Working Group.
 

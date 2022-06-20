@@ -1,7 +1,6 @@
 ---
-title: "Current projects"
+title: "Projects"
 format: html
 ---
 
-Projects listed here include both NOAA-related research projects and ongoing academic research projects.
-
+Projects listed here may include NOAA-related research projects and ongoing academic research projects unrelated to my NOAA research. This page is bare-bones for now but will eventually contain an index of these projects. Bear with me!

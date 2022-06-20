@@ -2,7 +2,11 @@
 title: "Teaching"
 ---
 
+Materials for most of my `{shiny}` materials are collected [here](https://mcsiple.github.io/shinyoverview/). 
+
 ## Introductions to `{shiny}`
+
+Shiny lectures and teaching materials are collected here. Quick access to my GitHub repo with Shiny tutorials, example code, and exercises is [here](https://github.com/mcsiple/shinyoverview). 
 
 ## Using `{shiny}` for science communication
 
