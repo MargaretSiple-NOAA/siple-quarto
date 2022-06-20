@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site is intended to be a roadmap to my projects, including teaching and some NOAA-related side projects."
+  },
+  {
     "objectID": "current-projects/bycatch.html",
     "href": "current-projects/bycatch.html",
     "title": "Marine mammal bycatch",
     "section": "",
-    "text": "This project is supported by the Ocean Modeling Forum and the Lenfest Ocean Program. The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks. My primary contribution to this was the mmrefpoints R package and Shiny app."
+    "text": "This project is supported by the Ocean Modeling Forum and the Lenfest Ocean Program. The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks."
+  },
+  {
+    "objectID": "current-projects/bycatch.html#software-products",
+    "href": "current-projects/bycatch.html#software-products",
+    "title": "Marine mammal bycatch",
+    "section": "Software products",
+    "text": "Software products\nWork products from this project include the {mmrefpoints} R package and Shiny app. The code for {mmrefpoints} is open source and published in the Journal of Open Source Software."
+  },
+  {
+    "objectID": "current-projects/bycatch.html#previous-talks",
+    "href": "current-projects/bycatch.html#previous-talks",
+    "title": "Marine mammal bycatch",
+    "section": "Previous talks",
+    "text": "Previous talks\nMaterial from this project has been presented at workshops and in lectures. Recorded talks are linked below."
   },
   {
     "objectID": "current-projects/index.html",
@@ -25,20 +46,20 @@
     "href": "index.html#marine-mammal-bycatch-impacts",
     "title": "Margaret Siple’s quarto page",
     "section": "Marine mammal bycatch impacts",
-    "text": "Marine mammal bycatch impacts\nThe marine mammal bycatch working group is a collaboration between academics and scientists from inside and outside NOAA, supported by The Ocean Modeling Forum. My primary contribution to this project was the mmrefpoints R package and Shiny app."
+    "text": "Marine mammal bycatch impacts\nThe Marine Mammal Bycatch Working Group is a collaboration between academics and scientists from inside and outside NOAA, supported by The Ocean Modeling Forum. My primary contribution to this project was the {mmrefpoints} R package and Shiny app. I contributed to this work as a postdoctoral research associate at the University of Washington.\nFor more information about this project and work products, including links to talks and tutorials, visit the Marine mammal bycatch page."
   },
   {
     "objectID": "index.html#shiny-tutorials",
     "href": "index.html#shiny-tutorials",
     "title": "Margaret Siple’s quarto page",
     "section": "Shiny tutorials",
-    "text": "Shiny tutorials\nI have several Shiny tutorials, hosted in various places.\n\n#some stuff\nlibrary(RColorBrewer)\nRColorBrewer::brewer.pal(n = 5,\"Blues\")\n\n[1] \"#EFF3FF\" \"#BDD7E7\" \"#6BAED6\" \"#3182BD\" \"#08519C\"\n\n\n\nI learned how to use Quarto from Openscapes and R-Ladies Santa Barbara."
+    "text": "Shiny tutorials\nMaterials for most of my {shiny} materials are collected on the Teaching page.\n\n#some stuff\nlibrary(RColorBrewer)\nRColorBrewer::brewer.pal(n = 5,\"Blues\")\n\n[1] \"#EFF3FF\" \"#BDD7E7\" \"#6BAED6\" \"#3182BD\" \"#08519C\"\n\n\n\nI learned how to use Quarto from Openscapes and R-Ladies Santa Barbara."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This site is intended to be a roadmap to my projects, including teaching and some NOAA-related side projects."
+    "objectID": "teaching.html#using-shiny-for-science-communication",
+    "href": "teaching.html#using-shiny-for-science-communication",
+    "title": "Teaching",
+    "section": "Using {shiny} for science communication",
+    "text": "Using {shiny} for science communication\n\nCreating visualization of model results and uncertainty in {shiny}. August 18, 2021."
   }
 ]
