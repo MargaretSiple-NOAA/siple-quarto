@@ -20,6 +20,7 @@ website:
   sidebar:
     pinned: true
     align: center
+    
     style: "docked"
     search: true
     collapse-level: 1
@@ -27,6 +28,9 @@ website:
       - href: index.qmd
         text: Welcome
       - section: current-projects/index.qmd
+        contents:
+        - current-projects/bycatch.qmd
+        
 
 format:
   html:

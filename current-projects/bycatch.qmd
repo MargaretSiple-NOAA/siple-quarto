@@ -7,11 +7,19 @@ format: html
 
 This project is supported by the [Ocean Modeling Forum](https://oceanmodelingforum.org/) and the [Lenfest Ocean Program](https://www.lenfestocean.org/en). The goal of the project was to provide a toolbox of tools helpful for stakeholders with data-poor marine mammal stocks. 
 
-## R package and Shiny app
+The Marine Mammal Bycatch Working Group is a collaboration between academics and scientists from inside and outside NOAA. My primary contribution to this project was the `{mmrefpoints}` R package and Shiny app. I contributed to this work as a postdoctoral research associate at the University of Washington.
 
-Work products from this project include the `{mmrefpoints}` [R package](https://github.com/mcsiple/mmrefpoints) and [Shiny app](https://msiple.shinyapps.io/mmrefpoints/). 
+Below you will find links to code, tutorials, and talks about the R package and Shiny app.
+
+## R package
+
+The `{mmrefpoints}` [R package](https://github.com/mcsiple/mmrefpoints) provides tools for projecting marine mammal abundance under different bycatch scenarios. It can also be used as a way to access the Shiny app offline.
 
 The code for `{mmrefpoints}` is open source and published in the [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.03888).
+
+## Shiny app
+
+The MMBIET Shiny app, included in `{mmrefpoints}` is available [here](https://msiple.shinyapps.io/mmrefpoints/). If you have any trouble with the app or want to request a new feature, visit the [Issues page](https://github.com/mcsiple/mmrefpoints/issues) for the package. 
 
 ## Talks
 
@@ -19,7 +27,7 @@ Material from this project has been presented at workshops and in lectures.
 
 * Webinar: Best practices to assess and manage marine mammal bycatch. Lenfest Ocean Program, March 14, 2022. ([link](https://www.youtube.com/watch?v=JMX_fggxpw4) - app introduction starts at 34:15)
 
-* A tool for projecting marine mammal abundance under different bycatch scenarios. January 7, 2022. University of Washington Quantitative Seminar. (link)
+* A tool for projecting marine mammal abundance under different bycatch scenarios. January 7, 2022. University of Washington Quantitative Seminar. ([link](https://www.youtube.com/watch?v=LO_HsO4fVy8))
 
 
 ## Papers
