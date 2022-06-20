@@ -25,9 +25,9 @@ The MMBIET Shiny app, included in `{mmrefpoints}` is available [here](https://ms
 
 Material from this project has been presented at workshops and in lectures. 
 
-* Webinar: Best practices to assess and manage marine mammal bycatch. Lenfest Ocean Program, March 14, 2022. ([link](https://www.youtube.com/watch?v=JMX_fggxpw4) - app introduction starts at 34:15)
+* **Webinar: Best practices to assess and manage marine mammal bycatch**. Lenfest Ocean Program, March 14, 2022. ([link](https://www.youtube.com/watch?v=JMX_fggxpw4) - app introduction starts at 34:15)
 
-* A tool for projecting marine mammal abundance under different bycatch scenarios. January 7, 2022. University of Washington Quantitative Seminar. ([link](https://www.youtube.com/watch?v=LO_HsO4fVy8))
+* **A tool for projecting marine mammal abundance under different bycatch scenarios**. January 7, 2022. University of Washington Quantitative Seminar. ([link](https://www.youtube.com/watch?v=LO_HsO4fVy8))
 
 
 ## Papers

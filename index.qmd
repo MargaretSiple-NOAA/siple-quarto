@@ -15,7 +15,7 @@ In GAP, I work on the development of indices of abundance for stock assessment, 
 ## Postdoctoral projects
 
 ### Marine mammal bycatch
-A collaborative project led by the Ocean Modeling Forum at the University of Washington. More info [here](currentprojects/bycatch.qmd).
+A collaborative project led by the Ocean Modeling Forum at the University of Washington. More info [here](current-projects/bycatch.qmd).
 
 ### The value of ecological information
 A James S. McDonnell Fellowship project at the University of California, Santa Barbara.
