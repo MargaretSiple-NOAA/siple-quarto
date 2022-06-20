@@ -44,30 +44,37 @@
   {
     "objectID": "current-projects/index.html",
     "href": "current-projects/index.html",
-    "title": "Current projects",
+    "title": "Projects",
     "section": "",
-    "text": "Projects listed here include both NOAA-related research projects and ongoing academic research projects."
+    "text": "Projects listed here may include NOAA-related research projects and ongoing academic research projects unrelated to my NOAA research. This page is bare-bones for now but will eventually contain an index of these projects. Bear with me!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Margaret Siple’s quarto page",
     "section": "",
-    "text": "Welcome to my Quarto webpage! I am working on filling it out. The page is public. The source code for this website is here."
+    "text": "Welcome to my Quarto webpage! I am a Research Fish Biologist at NOAA’s Alaska Fisheries Science Center, in the Groundfish Assessment Program. I built this page to host teaching and research materials that others may need easy access to. It is very much a work in progress.\nThe page is public. The source code for this website is here."
   },
   {
     "objectID": "index.html#postdoctoral-projects",
     "href": "index.html#postdoctoral-projects",
     "title": "Margaret Siple’s quarto page",
     "section": "Postdoctoral projects",
-    "text": "Postdoctoral projects"
+    "text": "Postdoctoral projects\n\nMarine mammal bycatch\nA collaborative project led by the Ocean Modeling Forum at the University of Washington. More info here.\n\n\nThe value of ecological information\nA James S. McDonnell Fellowship project at the University of California, Santa Barbara.\n\n\nForage species ecology and management\nMy dissertation topic, but also an ongoing area of exploration. I am interested in how we can better incorporate ecological information (environmental data, predation information, and more) into the models we use for managing forage species."
   },
   {
-    "objectID": "index.html#shiny-tutorials",
-    "href": "index.html#shiny-tutorials",
-    "title": "Margaret Siple’s quarto page",
-    "section": "Shiny tutorials",
-    "text": "Shiny tutorials\nMaterials for most of my {shiny} materials are collected on the Teaching page.\n\n#some stuff\nlibrary(RColorBrewer)\nRColorBrewer::brewer.pal(n = 5,\"Blues\")\n\n[1] \"#EFF3FF\" \"#BDD7E7\" \"#6BAED6\" \"#3182BD\" \"#08519C\"\n\n\n\nI learned how to use Quarto from Openscapes and R-Ladies Santa Barbara."
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Materials for most of my {shiny} materials are collected here."
+  },
+  {
+    "objectID": "teaching.html#introductions-to-shiny",
+    "href": "teaching.html#introductions-to-shiny",
+    "title": "Teaching",
+    "section": "Introductions to {shiny}",
+    "text": "Introductions to {shiny}\nShiny lectures and teaching materials are collected here. Quick access to my GitHub repo with Shiny tutorials, example code, and exercises is here."
   },
   {
     "objectID": "teaching.html#using-shiny-for-science-communication",
