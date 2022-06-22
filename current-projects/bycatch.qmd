@@ -9,7 +9,7 @@ This project is supported by the [Ocean Modeling Forum](https://oceanmodelingfor
 
 The Marine Mammal Bycatch Working Group is a collaboration between academics and scientists from inside and outside NOAA. My primary contribution to this project was the `{mmrefpoints}` R package and Shiny app. I contributed to this work as a postdoctoral research associate at the University of Washington.
 
-Below you will find links to code, tutorials, and talks about the R package and Shiny app.
+Below you will find links to code, tutorials, and talks about the R package and Shiny app. We hope that the products from the working group, including `{mmrefpoints}`, can be part of a curriculum for training stakeholders about survey design, observer programs, and risk analysis. 
 
 ## R package
 
@@ -36,3 +36,8 @@ Siple et al. 2022. [`mmrefpoints`: Projecting long-term marine mammal abundance 
 
 See the Ocean Modeling Forum [website](https://oceanmodelingforum.org/working-groups/marine-mammal-bycatch-working-group/) for a full list of paper from the Marine Mammal Bycatch Working Group.
 
+## Other materials
+
+* Best Practices for Assessing and Managing Marine Mammal Bycatch - fact sheet. April 2022. ([link](https://oceanmodelingforum.org/wp-content/uploads/2022/04/Lenfest-Marine-Mammal-Bycatch-Working-Grp_final.pdf))
+
+See the Ocean Modeling Forum's [product page](https://oceanmodelingforum.org/news/2022/04/marine-mammal-bycatch-working-group-webinar-and-product-links/) for more working group products including papers and a link to a special issue of Frontiers in Marine Science.
