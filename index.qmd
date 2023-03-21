@@ -26,6 +26,9 @@ My dissertation topic, but also an ongoing area of exploration. I am interested 
 # Teaching
 Materials for teaching about data visualization, Shiny, marine ecology, and fisheries management are slowly being assembled in the [Teaching](teaching.qmd) page.
 
+# Presentations
+Slide decks for recent presentations are stored [here](presentations/index.qmd).
+
 
 
 ---
