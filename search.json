@@ -1,10 +1,38 @@
 [
   {
+    "objectID": "presentations/index.html",
+    "href": "presentations/index.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Recent presentations:\n\nQuantfish at UMass Dartmouth: “Looking for prey habitat in a changing sea” March 2023. Slides."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "This site is intended to be a roadmap to my projects, including teaching and some NOAA-related side projects."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Materials for most of my {shiny} materials are collected here."
+  },
+  {
+    "objectID": "teaching.html#introductions-to-shiny",
+    "href": "teaching.html#introductions-to-shiny",
+    "title": "Teaching",
+    "section": "Introductions to {shiny}",
+    "text": "Introductions to {shiny}\nShiny lectures and teaching materials are collected here. Quick access to my GitHub repo with Shiny tutorials, example code, and exercises is here."
+  },
+  {
+    "objectID": "teaching.html#using-shiny-for-science-communication",
+    "href": "teaching.html#using-shiny-for-science-communication",
+    "title": "Teaching",
+    "section": "Using {shiny} for science communication",
+    "text": "Using {shiny} for science communication\n\nCreating visualization of model results and uncertainty in {shiny}. August 18, 2021."
   },
   {
     "objectID": "current-projects/bycatch.html",
@@ -68,26 +96,5 @@
     "title": "Margaret Siple’s quarto page",
     "section": "Postdoctoral projects",
     "text": "Postdoctoral projects\n\nMarine mammal bycatch\nA collaborative project led by the Ocean Modeling Forum at the University of Washington. More info here.\n\n\nThe value of ecological information\nA James S. McDonnell Fellowship project at the University of California, Santa Barbara.\n\n\nForage species ecology and management\nMy dissertation topic, but also an ongoing area of exploration. I am interested in how we can better incorporate ecological information (environmental data, predation information, and more) into the models we use for managing forage species."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Materials for most of my {shiny} materials are collected here."
-  },
-  {
-    "objectID": "teaching.html#introductions-to-shiny",
-    "href": "teaching.html#introductions-to-shiny",
-    "title": "Teaching",
-    "section": "Introductions to {shiny}",
-    "text": "Introductions to {shiny}\nShiny lectures and teaching materials are collected here. Quick access to my GitHub repo with Shiny tutorials, example code, and exercises is here."
-  },
-  {
-    "objectID": "teaching.html#using-shiny-for-science-communication",
-    "href": "teaching.html#using-shiny-for-science-communication",
-    "title": "Teaching",
-    "section": "Using {shiny} for science communication",
-    "text": "Using {shiny} for science communication\n\nCreating visualization of model results and uncertainty in {shiny}. August 18, 2021."
   }
 ]
