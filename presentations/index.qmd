@@ -1,8 +1,0 @@
----
-title: "Presentations"
-format: html
----
-
-Recent presentations:
- 
-- Quantfish at UMass Dartmouth: "Looking for prey habitat in a changing sea" March 2023. [Slides](presentations/quantfish.html).
