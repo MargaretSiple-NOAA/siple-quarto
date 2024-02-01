@@ -4,11 +4,12 @@ subtitle: "Research Fish Biologist, NOAA AFSC"
 image: Siple_profile_photo.jpg
 about:
   id: hero-heading
-  template: jolla
+  template: solana
   image-width: 10em
   image-shape: round
   
 ---
+:::{#hero-heading}
 
 # About
 
@@ -17,6 +18,8 @@ I am a Research Fish Biologist in the Groundfish Assessment Program (GAP) at NOA
 I built this page to host teaching and research materials that others may need easy access to. It is very much a work in progress.
 
 The page is public. The source code for this website is [here](https://github.com/MargaretSiple-NOAA/siple-quarto). 
+
+:::
 
 # Process research
 
