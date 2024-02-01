@@ -17,15 +17,15 @@ In GAP, I work on the development of indices of abundance for stock assessment. 
 
 My research interests in general are about how we can include ecological information into the models we use for management. Example of this include using habitat information to produce better indices of abundance for stock assessment, incorporating environmental drivers in simulations used to test harvest control rules, and using spatial distributions of prey to gain information about predator dynamics.  
 
-## Postdoctoral projects
+# Academic projects
 
-### Marine mammal bycatch
+## Marine mammal bycatch
 A collaborative project led by the Ocean Modeling Forum at the University of Washington. More info [here](current-projects/bycatch.qmd).
 
-### The value of ecological information
+## The value of ecological information
 A James S. McDonnell Fellowship project at the University of California, Santa Barbara. Some of this work is published [here](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.0526) but this project is very much ongoing.
 
-### Forage species ecology and management
+## Forage species ecology and management
 My dissertation topic, but also an ongoing area of exploration. I am interested in how we can better incorporate ecological information (environmental data, predation information, and more) into the models we use for managing forage species and their predators.
 
 # Teaching
