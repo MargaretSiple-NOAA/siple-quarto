@@ -4,13 +4,17 @@ title: "Margaret Siple's quarto page"
 
 # About
 
-Welcome to my Quarto webpage! I am a Research Fish Biologist at NOAA's Alaska Fisheries Science Center, in the Groundfish Assessment Program. I built this page to host teaching and research materials that others may need easy access to. It is very much a work in progress.
+I am a Research Fish Biologist in the Groundfish Assessment Program (GAP) at NOAA's Alaska Fisheries Science Center. I work on the annual groundfish bottom trawl survey in the Gulf of Alaska and the Aleutian Islands, and my research is focused on improving the models we use for fisheries management, usually by including ecological information.
+
+I built this page to host teaching and research materials that others may need easy access to. It is very much a work in progress.
 
 The page is public. The source code for this website is [here](https://github.com/MargaretSiple-NOAA/siple-quarto). 
 
-# Research
+# Process research
 
-In GAP, I work on the development of indices of abundance for stock assessment, and on improving Essential Fish Habitat information for groundfish and invertebrates in Alaska fisheries.
+In GAP, I work on the development of indices of abundance for stock assessment. I am also on the analytical team for Essential Fish Habitat, which is focused on generating maps and descriptions of EFH for groundfish and invertebrates in Alaska. If you're interested in requesting EFH data products or seeing the analytical products we've been working on, you can check out the [EFH GitHub organization page] (https://github.com/alaska-groundfish-efh).
+
+My research interests in general are about how we can include ecological information into the models we use for management. Example of this include using habitat information to produce better indices of abundance for stock assessment, incorporating environmental drivers in simulations used to test harvest control rules, and using spatial distributions of prey to gain information about predator dynamics.  
 
 ## Postdoctoral projects
 
@@ -18,10 +22,10 @@ In GAP, I work on the development of indices of abundance for stock assessment, 
 A collaborative project led by the Ocean Modeling Forum at the University of Washington. More info [here](current-projects/bycatch.qmd).
 
 ### The value of ecological information
-A James S. McDonnell Fellowship project at the University of California, Santa Barbara.
+A James S. McDonnell Fellowship project at the University of California, Santa Barbara. Some of this work is published [here](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.0526) but this project is very much ongoing.
 
 ### Forage species ecology and management
-My dissertation topic, but also an ongoing area of exploration. I am interested in how we can better incorporate ecological information (environmental data, predation information, and more) into the models we use for managing forage species.
+My dissertation topic, but also an ongoing area of exploration. I am interested in how we can better incorporate ecological information (environmental data, predation information, and more) into the models we use for managing forage species and their predators.
 
 # Teaching
 Materials for teaching about data visualization, Shiny, marine ecology, and fisheries management are slowly being assembled in the [Teaching](teaching.qmd) page.
