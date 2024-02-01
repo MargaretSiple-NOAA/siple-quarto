@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About this page"
 ---
 
-This site is intended to be a roadmap to my projects, including teaching and some NOAA-related side projects.
+This website is intended to be a roadmap to my projects, including teaching and some NOAA-related side projects.

@@ -15,7 +15,10 @@ The page is public. The source code for this website is [here](https://github.co
 
 In GAP, I work on the development of indices of abundance for stock assessment. I am also on the analytical team for Essential Fish Habitat, which is focused on generating maps and descriptions of EFH for groundfish and invertebrates in Alaska. If you're interested in requesting EFH data products or seeing the analytical products we've been working on, you can check out the [EFH GitHub organization page](https://github.com/alaska-groundfish-efh).
 
-My research interests in general are about how we can include ecological information into the models we use for management. Example of this include using habitat information to produce better indices of abundance for stock assessment, incorporating environmental drivers in simulations used to test harvest control rules, and using spatial distributions of prey to gain information about predator dynamics.  
+My research interests are about how we can include ecological information into the models we use for management. Example of this include using habitat information to produce better indices of abundance for stock assessment, incorporating environmental drivers in simulations used to test harvest control rules, and using spatial distributions of prey to gain information about predator dynamics.  
+
+I am also interested in software development for improving workflows and science communication. 
+
 
 # Academic projects
 
@@ -31,6 +34,8 @@ My dissertation topic, but also an ongoing area of exploration. I am interested 
 # Teaching
 Materials for teaching about data visualization, Shiny, marine ecology, and fisheries management are slowly being assembled in the [Teaching](teaching.qmd) page.
 
+# Publications
+For a list of publications, see my [Google Scholar page](https://scholar.google.com/citations?user=G_kfFmMAAAAJ&hl=en&oi=ao). 
 
 ---
 I learned how to use Quarto from Openscapes and R-Ladies Santa Barbara.
