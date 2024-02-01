@@ -1,5 +1,6 @@
 ---
-title: "Margaret Siple's quarto page"
+title: "Margaret Siple"
+subtitle: "Research Fish Biologist, NOAA AFSC"
 ---
 
 # About
@@ -12,7 +13,7 @@ The page is public. The source code for this website is [here](https://github.co
 
 # Process research
 
-In GAP, I work on the development of indices of abundance for stock assessment. I am also on the analytical team for Essential Fish Habitat, which is focused on generating maps and descriptions of EFH for groundfish and invertebrates in Alaska. If you're interested in requesting EFH data products or seeing the analytical products we've been working on, you can check out the [EFH GitHub organization page] (https://github.com/alaska-groundfish-efh).
+In GAP, I work on the development of indices of abundance for stock assessment. I am also on the analytical team for Essential Fish Habitat, which is focused on generating maps and descriptions of EFH for groundfish and invertebrates in Alaska. If you're interested in requesting EFH data products or seeing the analytical products we've been working on, you can check out the [EFH GitHub organization page](https://github.com/alaska-groundfish-efh).
 
 My research interests in general are about how we can include ecological information into the models we use for management. Example of this include using habitat information to produce better indices of abundance for stock assessment, incorporating environmental drivers in simulations used to test harvest control rules, and using spatial distributions of prey to gain information about predator dynamics.  
 
