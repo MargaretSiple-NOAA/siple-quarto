@@ -1,6 +1,13 @@
 ---
 title: "Margaret Siple"
 subtitle: "Research Fish Biologist, NOAA AFSC"
+image: Siple_profile_photo.jpg
+about:
+  id: hero-heading
+  template: jolla
+  image-width: 10em
+  image-shape: round
+  
 ---
 
 # About
