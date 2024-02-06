@@ -6,7 +6,7 @@ about:
   id: hero-heading
   template: solana
   image-width: 10em
-  image-shape: round
+  image-shape: square
   
 ---
 :::{#hero-heading}
