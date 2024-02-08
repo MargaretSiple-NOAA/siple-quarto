@@ -7,6 +7,39 @@
     "text": "This website is intended to be a roadmap to my projects, including teaching and some NOAA-related side projects."
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Materials for most of my {shiny} materials are collected here.",
+    "crumbs": [
+      "Home",
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching.html#introductions-to-shiny",
+    "href": "teaching.html#introductions-to-shiny",
+    "title": "Teaching",
+    "section": "Introductions to {shiny}",
+    "text": "Introductions to {shiny}\nShiny lectures and teaching materials are collected here. Quick access to my GitHub repo with Shiny tutorials, example code, and exercises is here.",
+    "crumbs": [
+      "Home",
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching.html#using-shiny-for-science-communication",
+    "href": "teaching.html#using-shiny-for-science-communication",
+    "title": "Teaching",
+    "section": "Using {shiny} for science communication",
+    "text": "Using {shiny} for science communication\n\nCreating visualization of model results and uncertainty in {shiny}. August 18, 2021.",
+    "crumbs": [
+      "Home",
+      "Teaching"
+    ]
+  },
+  {
     "objectID": "current-projects/bycatch.html",
     "href": "current-projects/bycatch.html",
     "title": "Marine mammal bycatch",
@@ -91,6 +124,17 @@
     ]
   },
   {
+    "objectID": "current-projects/index.html",
+    "href": "current-projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects listed here may include NOAA-related research projects and ongoing academic research projects unrelated to my NOAA research. This page is bare-bones for now but will eventually contain an index of these projects. Bear with me!",
+    "crumbs": [
+      "Home",
+      "Projects"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Margaret Siple",
@@ -132,50 +176,6 @@
     "crumbs": [
       "Home",
       "Welcome"
-    ]
-  },
-  {
-    "objectID": "current-projects/index.html",
-    "href": "current-projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Projects listed here may include NOAA-related research projects and ongoing academic research projects unrelated to my NOAA research. This page is bare-bones for now but will eventually contain an index of these projects. Bear with me!",
-    "crumbs": [
-      "Home",
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Materials for most of my {shiny} materials are collected here.",
-    "crumbs": [
-      "Home",
-      "Teaching"
-    ]
-  },
-  {
-    "objectID": "teaching.html#introductions-to-shiny",
-    "href": "teaching.html#introductions-to-shiny",
-    "title": "Teaching",
-    "section": "Introductions to {shiny}",
-    "text": "Introductions to {shiny}\nShiny lectures and teaching materials are collected here. Quick access to my GitHub repo with Shiny tutorials, example code, and exercises is here.",
-    "crumbs": [
-      "Home",
-      "Teaching"
-    ]
-  },
-  {
-    "objectID": "teaching.html#using-shiny-for-science-communication",
-    "href": "teaching.html#using-shiny-for-science-communication",
-    "title": "Teaching",
-    "section": "Using {shiny} for science communication",
-    "text": "Using {shiny} for science communication\n\nCreating visualization of model results and uncertainty in {shiny}. August 18, 2021.",
-    "crumbs": [
-      "Home",
-      "Teaching"
     ]
   }
 ]
