@@ -11,8 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: current-projects/index.qmd
+        text: Current Projects
+      - href: teaching.qmd
+        text: Teaching
 
   page-footer:
     right: "This page is built with 🐋 and [Quarto](https://quarto.org/)."
@@ -29,6 +31,7 @@ website:
       - section: current-projects/index.qmd
         contents:
         - current-projects/bycatch.qmd
+        - current-projects/EFH.qmd
       - teaching.qmd
         
 

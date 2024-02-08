@@ -1,0 +1,20 @@
+---
+title: "Essential Fish Habitat"
+format: html
+---
+
+## Background
+
+I am on the AFSC analytical team for Essential Fish Habitat (EFH). The analytical team's focus is on improving, curating, documenting covariate layers and species distribution models used to describe EFH in Alaska. 
+
+## Research
+
+Part of my work is carrying out original research on EFH-relevant topics. Some of this work is focused on directly improving EFH descriptions and maps, and some is more academic research that is relevant to EFH.
+
+### Prey habitat
+
+EFH for piscivorous fish should include prey distributions. In collaboration with Jens Nielsen at CICOES, I am working on descriptions of prey habitat (in this case, the habitat of herring, capelin, and juvenile pollock), as well as an assessment of spatial overlap between prey fish and lower trophic levels (zooplankton and phytoplankton).
+
+### Species distribution model development
+
+An important part of the EFH process is making sure the SDMs we use to provide scientific advice are the best quality they can be. This effort is ongoing and involves updating habitat covariates and evaluating/improving SDMs.
