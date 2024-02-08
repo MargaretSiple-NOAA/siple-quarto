@@ -6,12 +6,10 @@ about:
   id: hero-heading
   template: solana
   image-width: 10em
-  image-shape: square
-  
+  image-shape: rectangle
 ---
-:::{#hero-heading}
 
-# About
+:::{#hero-heading}
 
 I am a Research Fish Biologist in the Groundfish Assessment Program (GAP) at NOAA's Alaska Fisheries Science Center. I work on the annual groundfish bottom trawl survey in the Gulf of Alaska and the Aleutian Islands, and my research is focused on improving the models we use for fisheries management, usually by including ecological information.
 
